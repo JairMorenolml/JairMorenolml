@@ -1,10 +1,6 @@
 <h1 align="center">Hola 👋, Soy Jair Moreno</h1>
 <h3 align="center">🚀 Desarrollador Frontend | Apasionado por la innovación y el diseño web</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jairmorenolml&label=Profile%20views&color=0e75b6&style=flat" alt="jairmorenolml" />
-</p>
-
 ---
 
 ### 🧐 Sobre mí 
